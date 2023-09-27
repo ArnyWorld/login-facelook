@@ -1,3 +1,3 @@
 ## Login Facelook
 
-![Login Facelook](./img/facelook.jpg)
+![Login Facelook](./img/facelookPoster.jpg)
